@@ -76,6 +76,7 @@ import LoadingComp from '~/components/Loading-comp.vue'
 export default {
   components: { LoadingComp },
   name: 'IndexPage',
+
   data(){
     return {
       movies: [],

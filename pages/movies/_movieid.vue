@@ -50,6 +50,7 @@ import LoadingComp from '~/components/Loading-comp.vue'
 export default {
   components: { LoadingComp },
     name: "single-movie",
+    
     data() {
         return {
             movie: null
